@@ -1,0 +1,895 @@
+(dp0 
+i0 | neutral
+
+(lp1 
+vrt AT_USER rumors say the iphone 5 will look like thissssss.. this cool it look like the mouse. URL | positive
+
+p2 
+aviphone wiped and erased from a simple drop!!! wtf with a otter box case on it from only 3ft above ground and now my pc doesnt recognize it!! | negative
+
+p3 
+aviexplorer, formerly iphone explorer, lets you access the files on any iphone, ipad or ipod touch. URL | neutral
+
+p4 
+avi have tons of iphone chargers but can never find them when i need them messy | neutral
+
+p5 
+avi recently lost 3 followers. about to unfollow them, thanks to AT_USER this cool iphone app at URL | positive
+
+p6 
+avAT_USER yup! she be leaving it on her work station alone.. now she tight!! n i forgot to put the find my iphone app \u0001f612 | positive
+
+p7 
+avAT_USER AT_USER i think android users considering change, i find iphone users won't glance at wp7 while android users want a look. | neutral
+
+p8 
+avAT_USER hey guys, i need to get an iphone repaired and need my "proof of purcase". i bought it from optus so you send me those docs? | neutral
+
+p9 
+avwe make iphone skins made out of wood, and are currently running a campaign on indiegogo! support us and get a skin! URL | neutral
+
+p10 
+aviphone telescope adapter lets you instagram stars and microbes alike: URL rt AT_USER | neutral
+
+p11 
+avi swear verizon sold me a defected iphone .. piece of crap. | negative
+
+p12 
+avfree iphone/ipod usb cable: rating: 1 posted by: fliphop views: 271 replies: 0 URL URL | neutral
+
+p13 
+avnew post: copy movies to iphone - do it the easy way URL | positive
+
+p14 
+avi hate mfs that tweet shit like "rt if you have any : - ipad - wii - ps3 - iphone - xbox 360" & the goofies that rt it! gone back to fb -__- | negative
+
+p15 
+avoomf just texted me and spelled breakfast wrong and she has an iphone that autocorrects everything tragic | neutral
+
+p16 
+avshe just got an iphone rt AT_USER \u201cAT_USER AT_USER \u0001f374\u0001f170\u0001f346\u201d ( does she need me to translate ? lol ) | positive
+
+p17 
+avrt AT_USER dear iphone, "so" is a word, no need to change it to "do." | negative
+
+p18 
+avi still have an iphone 3gs i need an upgrade | neutral
+
+p19 
+avi'm using viber to make free calls and send free text on my iphone URL URL | neutral
+
+p20 
+avpink iphone 4s,link the first page input e-mail, as a formal registration information, you can obtain iphone 4s URL | neutral
+
+p21 
+avi have so many scratches on my phone from where my class ring scratches it oh well it's still sexy doe, black iphone over errrrthing | neutral
+
+p22 
+avi have lost no followers since i last checked AT_USER this cool iphone app at URL . | positive
+
+p23 
+avURL yup i am completely blown away | positive
+
+p24 
+avuh ah , my daddy need to get me a iphone .. | neutral
+
+p25 
+avrt AT_USER if you're filming something on your iphone and at any point in time yell, "wooorrldstaarr!!", you are partaking in foolery. | neutral
+
+p26 
+avthis is what you've been looking for, create iphone apps in only minutes URL | positive
+
+p27 
+avcrying because my iphone is broken, which means i can't listen to one direction on it!! :'( | negative
+
+p28 
+avi have tweets sitting in my drafts that i thought i sent hours ago. darn iphone. | neutral
+
+p29 
+avrt AT_USER *iphone falls to the floor* breaks screen *android falls to the floor* breaks floor. | negative
+
+p30 
+avrt AT_USER i hate how short the iphone charger cords are. inconvenient | negative
+
+p31 
+avsbs popasia have just played "good-bye baby (request)" by miss a on their iphone app.\u000a\u000alove this song :3 | neutral
+
+p32 
+avso twitter how come i didnt get that mention on your site but my iphone caught it? | neutral
+
+p33 
+avlove when android users brag to iphone users about how their phone is better. youwishyouhadaniphone\u000a#androidsucks | negative
+
+p34 
+avi keep forgetting my iphone charging cable when i go on trips. really need to make a little checklist for packing next time... | neutral
+
+p35 
+avrt AT_USER who needs itunes? we've got redsn0w! URL | neutral
+
+p36 
+avAT_USER iphone don't be silly wit a bb | negative
+
+p37 
+avrt AT_USER everyone, please re-tweet this! very important psa! iphone video camera dontbeamoron URL | neutral
+
+p38 
+avgmail's imap refusing to work with my iphone \u0001f61d anyone else having issues? | negative
+
+p39 
+av\u201cAT_USER AT_USER give me an iphone case !\u201d i have a pink one avail, or lime green :) | positive
+
+p40 
+avrt AT_USER "dude, a bird just tried to steal my iphone!" "why would a bird want an iphone?" "tweet people" | neutral
+
+p41 
+avi have like 5 iphone chargers lol | positive
+
+p42 
+avsang "mtn2" on iphone with AT_USER URL | neutral
+
+p43 
+avtour of suffolk iphone app URL | neutral
+
+p44 
+avneed some new followers iphone instagram instantfollowback 500aday teamfollowback \u0001f609\u0001f609\u0001f609\u0001f609\u0001f609\u0001f609\u0001f609\u0001f609\u0001f609\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764 \u0001f380 | neutral
+
+p45 
+avrumors say the iphone 5 will look like thissssss.. this cool it look like the mouse. URL | positive
+
+p46 
+avrt AT_USER that awkward moment when you put emojis in a text to someone that doesn't have an iphone. | negative
+
+p47 
+avfor all my iphone ppl how do i make smiley faces and stuff is that an app i'm new to this shit | negative
+
+p48 
+avAT_USER i have an iphone but droid users get more for their money. hardware is much better than an iphone thats a fact | negative
+
+p49 
+avmy brother has an iphone!!! :o *butt faces* -.- | negative
+
+p50 
+avplaying with my new iphone 4s. suck it. | negative
+
+p51 
+asi1 | neutral
+
+(lp52 
+vAT_USER no eve! why do you keep thinking i got an iphone??? lol | positive
+
+p53 
+avi miss my iphone :( | negative
+
+p54 
+avrt AT_USER android or iphone.......team android, we don't like them iphones | negative
+
+p55 
+avwhat's the best iphone tracker app? for security in case my phone is stolen... | neutral
+
+p56 
+avi've finally updated my iphone and now copy and paste dosn't work! | neutral
+
+p57 
+avdeleted all the worldly music from my iphone...i'm so serious about this. change | negative
+
+p58 
+av[limited time free!] brain lab ii\u3000iphone + android apps URL | neutral
+
+p59 
+aviphone game:many treatments meant for tmj that you really should consider. URL | neutral
+
+p60 
+avrt AT_USER android or iphone.......team android, we don't like them iphones | negative
+
+p61 
+aviphone 5 rumors: apple's next smartphone could feature liquidmetal technology URL | neutral
+
+p62 
+avnew iphone set to be out in october!! | positive
+
+p63 
+avAT_USER i think it's hilarious that the iphone screen responds to a cat's paw - mine loves to try and 'play' my games! | positive
+
+p64 
+avit is the worst audio quality in the world (sorry about that, iphone mic isn't great), but yeah this was fun. :)\u000aURL | negative
+
+p65 
+avrt AT_USER dear apple ... please invent a longer iphone charger before i do ... yours sincerely the world | negative
+
+p66 
+avrt AT_USER fuckk, i haven't been so happy to see this cracked iphone. its been to long. \u000afreedcolton | negative
+
+p67 
+avrt AT_USER whenever i delete an app on my iphone, the shaking icons make me feel like they're all panicked over who's getting deleted. | negative
+
+p68 
+avAT_USER ... maybe you wanna follow AT_USER or go to his website (jim fisher) ... tells about new high tech ... iphone ... | neutral
+
+p69 
+avgot the iphone 4s | neutral
+
+p70 
+avrt AT_USER he broke her heart, she broke his iphone. i think we all know who cried harder :) | negative
+
+p71 
+avwhere the iphone people at ? | neutral
+
+p72 
+avgreat! cracked the back of my iphone.... fml | negative
+
+p73 
+avAT_USER lmaoo not really!!! srry i suck at spelling that's what my iphone is for though so it's failing!!! | negative
+
+p74 
+avyea i been debating on whether if i should get me a iphone, but i ben gettin signs, so its on! im finna get me one lol | positive
+
+p75 
+avrt AT_USER cluckit for iphone! URL once again, i'll admit, i'm a strange girl..;) | positive
+
+p76 
+avyo this 7 year old has a iphone! for real? who's he gonna call? | neutral
+
+p77 
+avi have lost no followers since i last checked AT_USER this cool iphone app at URL . | neutral
+
+p78 
+avbeing a rebel and taking off my iphone case cause it's dirty yolo | negative
+
+p79 
+avAT_USER put the iphone down and step away miss hunt! you are already addicted!! x | neutral
+
+p80 
+avrt AT_USER whenever i delete an app on my iphone, the shaking icons make me feel like they're all panicked over who's getting deleted. | negative
+
+p81 
+avi might get a iphone 4 in september :) next year -___- | neutral
+
+p82 
+avrt AT_USER apple's iphone5 may be released this october according to piper jaffray analyst gene munster. URL | neutral
+
+p83 
+avrt AT_USER iphone instagram:\u000a\ue036\ue307\ue036\ue307\ue036\ue307\ue036\ue04a\u000agated community\ue415\u000a\u000ait's was a great community until \u000a \u000aandroid instagram:\u000a\ue038\ue038\ue038\ue038\ue038\ue038\ue049\u000asection \ue223 housing\ue107 | neutral
+
+p84 
+avi mite have to turn this iphone in! smh bill is crazy! | negative
+
+p85 
+av"silicone iphone case? this is what boobs are made out of" AT_USER | neutral
+
+p86 
+avAT_USER its an iphone problem. so quick 2 die! | negative
+
+p87 
+avi hate this iphone ... | negative
+
+p88 
+avsoamaziing3 if todds not hogging the friggin phone -.- iphone 4s for free | neutral
+
+p89 
+avrt AT_USER iphone at 10% is like your best friend dying in your hands... | positive
+
+p90 
+avrt AT_USER dat new iphone 5 URL | neutral
+
+p91 
+avmeu tumblr: green day/iphone/green day/brunna/green day/rom\e2ntico/green day/humor/green day | neutral
+
+p92 
+avURL | neutral
+
+p93 
+avrt AT_USER android or iphone.......team android, we don't like them iphones | negative
+
+p94 
+avfollow AT_USER they have the best iphone cases ever \u0001f44d\u0001f44d\u0001f60d\u0001f60d\u0001f60d URL | positive
+
+p95 
+avmens jacket sizes : georgia tech phone case glasses holder yellow jackets logo fits apple iphone,... URL | neutral
+
+p96 
+avteething from my new iphone welcometo2012 | neutral
+
+p97 
+av"give me a bite." "give me an iphone." "you're out of your mind!" "oh so we're on the same page." convoswithmom | neutral
+
+p98 
+avwill the next iphone be straight out of sci-fi? URL | neutral
+
+p99 
+avthe apple byte: the best iphone watch evar! URL | positive
+
+p100 
+avanyone that goes on twitter on iphone/ipod/ipad does twitter just stop working for yous to, timeline or tweets won't load and all that !! | negative
+
+p101 
+avi get's to order my iphone this week ;) pow | positive
+
+p102 
+asi2 | neutral
+
+(lp103 
+vbest ice tea. no argument. arizona rasberry icetea instagramhub iphone drink favorite URL | positive
+
+p104 
+avi'm watching cuando digo tu nombre (live at el lunari... by alejandro fer... on AT_USER for iphone! me pone piel d gallit URL | neutral
+
+p105 
+avAT_USER not a bad choice - push emailing and searchable user database via iphone! | negative
+
+p106 
+avlock my folder - killer photo and video privacy for your iphone! URL utilities iphone ipad | neutral
+ 
+p107 
+avpoobie the only nigga i know with an iphone and don't be on no social websites lol not twitter, facebook or instragram. | positive
+
+p108 
+avAT_USER shit !! what is it for the iphone then ?? | negative
+
+p109 
+avcould apple finally make full use of liquidmetal in the construction of its next iphone? URL | neutral
+
+p110 
+avhand-drawn ms. macabre \u0001f497 instagram iphone picoftheday instagood instago igdaily draw drawing bamboo URL | neutral
+
+p111 
+avapple planning an ipad mini. i thought they already had one: the iphone... | neutral
+
+p112 
+avpls check out oresund (voice&videorecorder )'s facebook page -&gt; URL iphone ipad facebook facetime download apps | neutral
+
+p113 
+avAT_USER just got my iphone on my way home | positive
+
+p114 
+avthe homie got a sprint iphone for sale but it's chipped in the back URL URL | positive
+
+p115 
+avi know drag seen me calling that iphone | neutral
+
+p116 
+avrt AT_USER lmao| rt AT_USER the iphone not even that raw believe me i stole one before... | neutral
+
+p117 
+avAT_USER hey buddy lost my iphone in mexico damnit i think u have my other number tho beersthisweekend | negative
+
+p118 
+avfajr prayer alarm, year round dawn time calculator and alarm clock for the "four seasons"- free app for iphone & ipad URL | neutral
+
+p119 
+avis a vip on original gangstaz. add my friend code: 643 861 292 click the link to join my gang URL iphone ipod ipad # | neutral
+
+p120 
+avAT_USER i just wanna make it look like i'm at all loyal. ppffttt yeah right, prolly getting 1 tomorrow italian iphone bros | positive
+
+p121 
+avopenphoto is an open, cloud-based photo storage alternative for iphone URL | neutral
+
+p122 
+avif you got an iphone 3gs with red bottoms on! something ain't right in my AT_USER you ain't right boo boo | neutral
+
+p123 
+avrt AT_USER i swear i would be so lost if i never got an iphone | negative
+
+p124 
+avAT_USER yea i have it in my lg android. ello lo tiene con android y iphone :-) | positive
+
+p125 
+avi gotta iphone charger that needs a casket...rip URL | neutral
+
+p126 
+avAT_USER laaaaaughing well your faku's still pumping for now lol but when you do iphone the way to go i'm a newbie and imlovingit | positive
+
+p127 
+avu can't bbm my iphone chime | negative
+
+p128 
+avain't no recycle bin on the iphone .??? | negative
+
+p129 
+avrt AT_USER good evening gnation family AT_USER AT_USER AT_USER AT_USER AT_USER AT_USER (via AT_USER iphone app) | neutral
+
+p130 
+avthe first time your iphone falls&lt;&lt;&lt;&lt;&lt;&lt; \u0001f625\u0001f622\u0001f494 | neutral
+
+p131 
+avAT_USER you should use the AT_USER app for the iphone! | neutral
+
+p132 
+avmarvel vs capcom 2 confirmed for a "can't see the characters because your thumb's in the way" iphone port. | negative
+
+p133 
+avjob need iphone game designed by lockheedfcu: i would like to create a game using a little robot chara... URL android | neutral
+
+p134 
+avan iphone makes a great pattern weight | positive
+
+p135 
+avat zazzle! pansy delight ~ iphone case URL | positive
+
+p136 
+avhiphop iphone - nas - the don (clean) on URL | neutral
+
+p137 
+avfacetime on the iphone \u0001f4f1is so much fun\u0001f604 | positive
+
+p138 
+avnew mini usb + apple dock car charger for iphone ipod: new incipio mini usb apple car charger. the mini auto ... URL | neutral
+
+p139 
+avjust installed AT_USER on my iphone - it's a free navigation app with fun gaming & social elements! URL | positive
+
+p140 
+avtweets are going to increase spontaneously now that AT_USER has iphone gohard | neutral
+p141 
+avi love being able to text for free on my ipod, ipad, and iphone using AT_USER you can get textnow here: URL | positive
+
+p142 
+avrt AT_USER salty af i aint got no iphone though &lt;&lt; | negative
+
+p143 
+avpunjabisongsinenglish - girls got a white iphone with a la ringtone lmao. | neutral
+
+p144 
+avrt AT_USER parents are suing apple over addictive kids ipad/iphone games. the results of the lawsuit will be available as a $2 in-app purchase. | neutral
+
+p145 
+avpimped out my iphone URL | neutral
+
+p146 
+avrt AT_USER i hate my iphone. | negative
+
+p147 
+avrt AT_USER AT_USER ha cheers harry! all this time i've been waiting for you to tweet and it's about an iphone not a marriage proposal. shame :) x | positive
+
+p148 
+avrt AT_USER iphone shawty \u0001f60art AT_USER guess what i have? \u263a\u201d | neutral
+
+p149 
+avrt AT_USER he say he got a iphone but i aways see his ipod | positive
+
+p150 
+asi3 | neutral
+
+(lp151 
+vmind blown iphone trafficin a kilo. \u0001f4b0 | neutral
+
+p152 
+avi wish i had an iphone, but t-mobile is like stupid or something & doesn't carry it /: sadtweet | negative
+
+p153 
+avAT_USER just read this article saying iphone 5 on october true or nat? | neutral
+
+p154 
+avrt AT_USER iphone 5 is going to be so sick... | negative
+
+p155 
+avi've just received an achievement: sociable URL iphone iphonegames | neutral
+
+p156 
+aviphone or blackberry ? | neutral
+
+p157 
+avfuck an iphone battery. \u0001f621 | negative
+
+p158 
+avso there's no untethered jailbreak firmware for iphone 4 yet.....fiddlesticks. | neutral
+
+p159 
+avforever hating iphone's predictive text | negative
+
+p160 
+aviphone won't respring properly btw. it's not broken | negative
+
+p161 
+avrt AT_USER your parents bought you an iphone, a macbook, and a car? and they're paying for your school? please, tell me how hard your life is. | neutral
+
+p162 
+avrt AT_USER your parents bought you an iphone, a macbook, and a car? and they're paying for your school? please, tell me how hard your life is. | neutral
+
+p163 
+avi just lazily unfollowed 19 user(s) with AT_USER this cool iphone app at URL . | positive
+
+p164 
+aviphone ipad appstore pricedrop battery inspector from $2.99 to $1.99 URL | neutral
+
+p165 
+avrt AT_USER iphone vs android. westside vs eastside. darkskin vs lightskin. skinny vs fat.gay vs straight. red vs blue . . niggas argue over stupid shit | negative
+
+p166 
+avi felt like i was in the hungergames katniss peeta thg hg csuci iphone nofilter URL | neutral
+
+p167 
+avi got an iphone AT_USER AT_USER thankthelord | positive
+
+p168 
+avAT_USER will gps with iphone ever be as good as droid? | positive
+
+p169 
+avfabolous -got that work video with emoji iphone \u0001f603\u0001f618\u0001f46f\u0001f4aa\u0001f609\u0001f61c\u0001f44c URL | neutral
+
+p170 
+avughghhhhhfvjsv i want an iphone so badly :( | positive
+
+p171 
+avrt AT_USER \u201cAT_USER AT_USER have you dropped your iphone yet? \ue40d\ue40d\ue40d\u201d &lt;&lt; yeah.... no cracks yet.. lol i'm pushing it without a case | positive
+
+p172 
+avAT_USER just saw your iphone commercial!,, no 80's hair metal on the phone??, lol | positive
+
+p173 
+avnigga hit me up out my ipod idc tho iphone 5 coming soon | neutral
+
+p174 
+avrt AT_USER next iphone to be made of 'liquidmetal', arrive in october [report] - URL | neutral
+
+p175 
+avjust finished a runtastic walking of 5.0 mi in 1:18 hours with runtastic iphone app - take a look at URL | neutral
+
+p176 
+avAT_USER i replied to ur iphone tweet u dummie | neutral
+
+p177 
+avhtc vivid or iphone 4s? can't decide... | negative
+
+p178 
+avURL 3 apps that accompany this iphone toy for infants has sold over 700k times. talk about digital indoctrination. | neutral
+
+p179 
+avrt AT_USER how to add a new default search engine to safari on the iphone: \u000a \u000a \u000a \u000a if you pre... URL | neutral
+
+p180 
+avyes the middle button on my iphone is working again :) miracle | positive
+
+p181 
+avrt AT_USER your parents bought you an iphone, a macbook, and a car? and they're paying for your school? please, tell me how hard your life is. | neutral
+
+p182 
+avAT_USER mytouch 4g l: i want to buy an iphone and unlock it(: | positive
+
+p183 
+avyaaaaaaaaaaas! you finally got one!! \u0001f601\u0001f61d\u0001f61c rt AT_USER i have an iphone! :) :) | positive
+
+p184 
+avrt AT_USER iwanttopunchpeoplewho argue over dumb stuff like darkskinned vs lightskinned, iphone vs android, skinny vs thick, gay vs straight. | neutral
+
+p185 
+avmy brother got my iphone case | positive
+
+p186 
+aviphone ipad appstore pricedrop towers n' trolls hd from $2.99 to $0.99 URL | neutral
+
+p187 
+avlol AT_USER 's quick responses now that she's got an iphone &gt;&gt;&gt;&gt;&gt;&gt; | neutral
+
+p188 
+avi parted my hair to the other side today.. well that was different? i didn't look like a complete twat on iphone front camera | positive
+
+p189 
+avAT_USER i have an iphone!! | positive
+
+p190 
+avverizon revenue up on iphone bills URL | neutral
+
+p191 
+avAT_USER lol looks like 2 for the iphone, 0 for crappy phone. ding ding ding we have a winner | positive
+
+p192 
+avrt AT_USER kids are supposed to be so tech savvy today but 9-month-old just wants to lick my iphone. | neutral
+
+p193 
+aviphone 3g 3gs 4 4g 4gs brand new sim card tray ejector pin removal tool key URL only 50p bid now if you got an iphone! | positive
+p194 
+avi really hate blackberrys now, want an iphone!! | neutral
+
+p195 
+aviphone, miami nights, clothes all i would like for my birthday | positive
+
+p196 
+avURL iphone bills boost verizon 1q revenue growth | neutral
+
+p197 
+avhow to deploy byod home-baked apps onto an iphone. what a pain in the... URL it's much easier on android than on crapple | neutral
+
+p198 
+avflip flop tpu skin cover for apple iphone 4 & iphone 4s, clear URL | neutral
+
+p199 
+avtropical orange cocktail case-mate iphone 4 case from zazzle URL via AT_USER | neutral
+
+p200 
+asi4 | neutral
+
+(lp201 
+viphone battery life's are so shitty, swear down my phone goes flat ever two minutes! stupid | negative
+
+p202 
+avdear apple, the iphone 5 needs to be able to do this. sincerely a horrible drunktexter URL | negative
+
+p203 
+aviphone &gt; nokia &gt; land phone &gt; typewriter &gt; 2 cans and a string &gt; message in a bottle &gt; pigeon with a note tap &gt; android | neutral
+
+p204 
+avcan saturday come any slower? i want my iphone already! | positive
+
+p205 
+avhome-care support for elderly fails caregivers, report finds URL via AT_USER iphone app | negative
+
+p206 
+aviphone user interface design projects (paperback): following the best-selling beginning iphone development, ipho... URL | neutral
+
+p207 
+avrt AT_USER using a white board to play draw something because you can't afford an iphone. yesthisishappening | neutral
+
+p208 
+avautomakers: your high-tech dashboards are frustrating (and possibly dangerous) URL via AT_USER | negative
+
+p209 
+avrt AT_USER btfu !! rt AT_USER i need the iphone or a new phone period.. this shitty ass track phone | negative
+
+p210 
+av\u201cAT_USER i spend way too much time on my iphone..\u201d | neutral
+
+p211 
+avAT_USER did you get an iphone? | neutral
+
+p212 
+avAT_USER you don't have a cool iphone:) bahahaha lose that phone again & you can do it too:) AT_USER | positive
+
+p213 
+avyuengling in my left. iphone in my right. | neutral
+
+p214 
+avAT_USER fasho...make it happen cap'n!!! | neutral
+
+p215 
+avrt AT_USER watch this iphone survive a literal hammer blow thanks to magical screen protector URL | positive
+
+p216 
+avrt AT_USER someone took AT_USER iphone and wallet here in brazil! now he can't call home! anyone have an extra iphone4 ? lol! poor thing! | positive
+
+p217 
+av10+ of our top ipod/iphone applications to educate and entertain preschoolers & toddlers: i have done all the re... URL | neutral
+
+p218 
+av\u201cAT_USER streets of rage on the iphone AT_USER make this happen please.\u201d &lt; streets of rage 2! | neutral
+
+p219 
+avno problem love! |rt AT_USER AT_USER thanks for lastnite & thank you for the iphone! i love u. | positive
+
+p220 
+avrt AT_USER i still can't type on this stupid iphone | negative
+
+p221 
+avmy iphone's missing :`((( | negative
+
+p222 
+avi want a iphone sooooooo bad! i hate my stupid blackberry! :@ | negative
+
+p223 
+avikr my keyboard was acting stupid and it blanked and it was fixed \u201cAT_USER my home button fixed itself, iphone the dopest phone\u201d | negative
+
+p224 
+avrt AT_USER roubaram o iphone do baterista da demi kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk "you lort prayboy" | neutral
+
+p225 
+avokaaay, if i get high honors, then i'll be team iphone :) shitjustgotreal | neutral
+
+p226 
+avAT_USER smh everybody team iphone | neutral
+
+p227 
+avrt AT_USER oh, you're getting a white iphone? why don't you get the black one? it runs faster. | neutral
+
+p228 
+avthis amp is sick! the best part happened with the la trip though when AT_USER had me buy the cable to connect my iphone to the stereo | negative
+
+p229 
+avi'm a nerd doe! iphone screensaver URL | neutral
+
+p230 
+avrt AT_USER samuel l. jackson is the perfect person to do an iphone commercial | positive
+
+p231 
+avAT_USER the best phone on the market, the iphone 4s | positive
+
+p232 
+avAT_USER buy android phones. better than iphone and no suicide nets. even windows mobile now better than iphone and no nets. | negative
+
+p233 
+avAT_USER i say we all play a game called "take the case off your iphone and throw it in a pile with everyone else's and find it" | neutral
+
+p234 
+avrt AT_USER ugh iphone 5 hurry up before i settle for the 4s! | neutral
+
+p235 
+avwatch this iphone screen protector shrug off a hammer blow URL via AT_USER | neutral
+
+p236 
+avAT_USER our iphone app is internal alpha. you can use our mobile site while you're out and about at URL | neutral
+
+p237 
+avi highly doubt the new iphone has a transparent body.. | neutral
+
+p238 
+avrt AT_USER *deletes all iphone users numbers out of my phone* | neutral
+
+p239 
+avtiny comet for iphone is on sale for free (was $0.99). 4.5/5 stars. URL | neutral
+
+p240 
+avi'm using viber to make free calls and send free text on my iphone URL URL | neutral
+
+p241 
+avrt AT_USER ugh iphone 5 hurry up before i settle for the 4s! | neutral
+
+p242 
+avi hate my mom dropped her iphone nd cracked it that really hurt my heart because i know that easily could have been me \u0001f622 | neutral
+
+p243 
+avjust finished a runtastic run of 3.0 mi in 38:15 minutes with runtastic iphone app - take a look at URL | neutral
+
+p244 
+avAT_USER of course! only idiot iphone owners would put such a thing on their phone | negative
+
+p245 
+avcan't decide wether i want a blackberry or an iphone...hhhmmm?? this one is a toughy | neutral
+
+p246 
+avthe amount of times i drop my phone on my face. going to end up with an iphone shaped head. | neutral
+
+p247 
+avAT_USER yeah okay babe, want an iphone? | neutral
+
+p248 
+avthis girl had 2 cases on her blackberry so she could fit one of those novelty casset iphone case. that shit was looking nice tho | negative
+
+p249 
+avrt AT_USER oh your parents bought you an iphone, a macbook, and a car? and they're paying for your school? please, tell me how hard your life is. | neutral
+
+p250 
+asi5 | neutral
+
+(lp251 
+vnumbers addict best iphone puzzle game ever france vous avez dit addict ?????? minou927 URL | positive
+
+p252 
+avi have lost no followers since i last checked AT_USER this cool iphone app at URL . | positive
+
+p253 
+avfree available awesome tvquran app for iphone in apple store. | neutral
+
+p254 
+avrt AT_USER yes! another mosquito's insomnia promo code: ew9f7we99e99 app link: URL iphone games idrtg promoco... | neutral
+
+p255 
+avsomeone buy me an iphone | neutral
+
+p256 
+avAT_USER this will be a life long war off iphone sucks androids balls. | negative
+
+p257 
+avjust to load one fucking fuck fuck fuck fucker mv on my iphone took almost 45 minutes, fuck my phone. really, fuck you. _|_ fuck. | negative
+
+p258 
+avrt AT_USER my\u000aphone looks so good with the brightness turned up but dies so fast \u0001f614 iphone | positive
+
+p259 
+avif you got iphone download kik messenger | neutral
+
+p260 
+ava watch i'd wear \u201cAT_USER iphone compatible 'pebble' wristwatch tallies nearly $4 million in kickstarter presales URL | neutral
+
+p261 
+avthis dj always keeps the lord god almighty in the mix!!! make sure you put this in your ipod, iphone, ipad, or... URL | neutral
+
+p262 
+avmy sentiments as well... rt AT_USER i'm tired of the iphone 4. is the 5 being released? | neutral
+
+p263 
+avAT_USER exactly. my iphone needs to get with the program. and it was a good tweet too. ruined by lack of proofreading and autocorrect | neutral
+
+p264 
+avoh and who knew you could print out an iphone shot that big and still have awesome quality. i'm so impressed URL | positive
+
+p265 
+avAT_USER start a love affair with mail.\u000aget AT_USER for iphone: URL | neutral
+
+p266 
+avhow ironic. the first song that my iphone plays when i hit shuffle is boston by augustana. that songs always been there for me. | neutral
+
+p267 
+avapple factory working conditions are abysmal. tell apple, make the iphone 5 an ethical iphone. URL via AT_USER | neutral
+
+p268 
+avAT_USER nope i can't see it -____- hey leave my phone alone :( imma get an iphone soon lol | positive
+
+p269 
+avAT_USER wtf, iphone! it was about my last drawing for you.. i sent it before it was done.. \u0001f3e0+\u26be if that makes any sense | neutral
+
+p270 
+avi cant wait to get my iphone ._. gah ima take so many pictures &lt;3 | neutral
+
+p271 
+avmy mom just downloaded the one direction album on her iphone\u2026 no, just no. -__- | neutral
+
+p272 
+avmodern girl (URL for iphone +3 other apps are free today with AT_USER (URL | neutral
+
+p273 
+av' my iphone charging kaylawayla | neutral
+
+p274 
+avsup twitter peeps, just got my new iphone today :) | positive
+
+p275 
+avrt AT_USER need a new iphone case. | neutral
+
+p276 
+avrt AT_USER why does the last 5 % of an iphone battery last longer than the first 95 % tho ? | neutral
+
+p277 
+avrt AT_USER my sister just brought an iphone. so. damn. jealous. | positive
+
+p278 
+avwith textplus i text for free! AT_USER is on the ipod, iphone, ipad, android and windows phone. get it: URL | neutral
+
+p279 
+avAT_USER dam dnt stunt cause u have a iphone | neutral
+
+p280 
+avrt AT_USER how does a sixth grader have an iphone? when i was your age, i had a blue flip phone the size of a brick w/ no camera. | neutral
+
+p281 
+avwhat color iphone should i cop friday | neutral
+
+p282 
+avmy mom got an iphone 4. she still doesn't even know how to use her phone. | positive
+
+p283 
+avAT_USER i think its time you upgrade to the iphone bro teamiphone | neutral
+
+p284 
+avwelcome welcome! rt AT_USER just got the iphone! i finally turned in my dinosaur of a blackberry!!! | positive
+
+p285 
+avhaving a dead iphone &lt; | negative
+
+p286 
+avme girl iphone instagram URL | neutral
+
+p287 
+avyay team iphone thursday | neutral
+
+p288 
+avthis kid is for real? asking me to sell him my iphone for his dumbass droid &lt;&lt;&lt;&lt; you have got to be kidddding | neutral
+
+p289 
+avi swear my iphone be ringing off the hook bruh..... all fucking day | negative
+
+p290 
+avAT_USER i'm filming from my iphone lmao | neutral
+
+p291 
+avrt AT_USER just got the iphone! i finally turned in my dinosaur of a blackberry!!! | positive
+
+p292 
+avmoi! i'm live on twitcasting from my iphone. URL | neutral
+
+p293 
+avnot after paying that high bill rt AT_USER just paid that iphone bill...richforever | neutral
+
+p294 
+avrt AT_USER she got an iphone 6 ctfu | positive
+
+p295 
+avifrogz earpollution ozone earbuds purple pink: rock to your favorite tunes on your apple iphone or other media p... URL | neutral
+
+p296 
+avrt AT_USER \u201cAT_USER nell runs a dudes pockets,finds a iphone and sandwich ...he can only take one, which does he take AT_USER sandwich | neutral
+
+p297 
+avi wish myi grandma would stop txtinq meh wats dha point of gettinq a iphone nd yuh ask meh questions about it every day | neutral
+
+p298 
+as. | neutral
+
